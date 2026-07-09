@@ -49,29 +49,6 @@ Database
 
 ---
 
-## 📂 Project Structure
-
-```
-TransitIQ/
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│
-├── templates/
-│
-├── database/
-│
-├── app.py
-├── config.py
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 ## 🔥 Key Functionalities
 
 - Authentication & Session Management
@@ -85,39 +62,7 @@ TransitIQ/
 
 ---
 
-## 🚀 Getting Started
 
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/TransitIQ.git
-```
-
-Navigate into the project
-
-```bash
-cd TransitIQ
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Flask server
-
-```bash
-python app.py
-```
-
-Open
-
-```
-http://127.0.0.1:5000
-```
-
----
 
 ## 🛠 Future Scope
 
@@ -136,16 +81,13 @@ http://127.0.0.1:5000
 
 | Home | Dashboard | Route Management |
 |------|-----------|------------------|
-| Add screenshots here | Add screenshots here | Add screenshots here |
+| <img width="552" height="302" alt="image" src="https://github.com/user-attachments/assets/6d6f0ae6-df19-4c05-b609-7a63e2ef7656" />
+ | <img width="545" height="297" alt="image" src="https://github.com/user-attachments/assets/7e93259e-c0bb-4a7b-987b-4a1bcecd617a" />
+ | <img width="540" height="300" alt="image" src="https://github.com/user-attachments/assets/67edf0b0-17bc-4b8b-8672-a65559579084" />
+ |
 
 ---
 
-## 👨‍💻 Contributors
-
-- Rudraksh Gupta
-- Team Members
-
----
 
 ## 📄 License
 
