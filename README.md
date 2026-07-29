@@ -2,7 +2,7 @@
 # 🚍 TransitIQ
 ### Full-Stack Public Transit Management System
 
-TransitIQ is a full-stack web application developed to modernize public transportation management. It enables commuters to explore routes and schedules while providing administrators with a powerful dashboard to manage buses, routes, and operational data through a secure backend system.
+TransitIQ is a full-stack web application developed to modernize public transportation management. It enables commuters to explore routes and schedules while providing administrators with a powerful dashboard to manage buses, routes, and operational data through a secure backend system .
 
 > Built using Flask, SQLite, HTML, CSS, JavaScript, and Bootstrap.
 
